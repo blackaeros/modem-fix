@@ -1,3 +1,6 @@
+1.10
+• Add support for Android 15 pixel 6a
+
 1.9  
 • Add support for Android 14
 • Add support for Pixel 7a
