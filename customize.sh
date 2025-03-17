@@ -72,6 +72,9 @@ elif [ "$CODENAME" == "raven" ] || [ "$CODENAME" == "oriole" ] || [ "$CODENAME" 
 elif [ "$CODENAME" == "raven" ] || [ "$CODENAME" == "oriole" ] || [ "$CODENAME" == "bluejay" ] && [ "$CFGVER" == "cfgdb-whi-241107-B-12620021" ]; then
     cp -rf "$MODPATH/cfgs/pixel_6/cfgdb-whi-241107-B-12620021/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
 
+elif [ "$CODENAME" == "raven" ] || [ "$CODENAME" == "oriole" ] || [ "$CODENAME" == "bluejay" ] && [ "$CFGVER" == "cfgdb-whi-250103-B-12866815" ]; then
+    cp -rf "$MODPATH/cfgs/pixel_6/cfgdb-whi-250103-B-12866815/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
+
 else
     abort "- Your device, config file or ROM build unsupported yet!"
 fi

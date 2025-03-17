@@ -51,6 +51,7 @@ Android      Build Number            Release Date      CFG Version              
 13.0.0       TQ3A.230901.001         Sep 2023          cfgdb-whi-230428-B-10034304             abd9876f2c0d27bab0478cf9f79a055b380d52a7f0fa82c348e59a919b4925e5      a282d508fe77e0f64a2374e569baed9b1e0f5fea
 14.0.0       UP1A.231005.007         Oct 2023          cfgdb-whi-230818-B-10678034             64bc6888cc9b160051b92cf4ae66ca4c0f5b2ed0588d31ca9b63012560364e99      128b4281b0f06f16921dc1e37dc1e76c9a9c6c49
 15.0.0       AP4A.250205.002         Feb 2025          cfgdb-whi-241107-B-12620021             0b08b21b1b1e9a6aa7691bc6249b9e0ab78f91dfb8cea313b12f1f979199cdf0      478f3632d42196c2438b5eeba797d88cef4e8ec5
+15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whi-250103-B-12866815             963216938d639619f8395b3026c0a2dd248682ed81e0991cd6337cc2521c1ba7      478f3632d42196c2438b5eeba797d88cef4e8ec5
 
 Pixel 6 (Pro) product line matrix (oriole, raven)
 Android      Build Number            Release Date      CFG Version                             CFG SHA-256 Hash                                                      it_iliad_2124_hash
