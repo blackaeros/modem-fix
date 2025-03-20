@@ -7,6 +7,7 @@ Android      Build Number            Release Date      CFG Version              
 13.0.0       TQ3A.230805.001         Aug 2023          cfgdb-whipro-230427-B-10022403          495609840c141aea71c7c81c50a222811c5e4101bcd6e2fbaa75a963e7f61fc9      2b856cbb8c4923f0aee0b2891046bf2f6bfaa557
 13.0.0       TQ3A.230901.001         Sep 2023          cfgdb-whipro-230427-B-10022403          495609840c141aea71c7c81c50a222811c5e4101bcd6e2fbaa75a963e7f61fc9      2b856cbb8c4923f0aee0b2891046bf2f6bfaa557
 14.0.0       UP1A.231005.007         Oct 2023          cfgdb-whipro_r16-230818-B-10680050      9a6bf03b4bcd74016131908989d30f7ef397f8ea7acf4f7e01bd46d9883013d8      7f549b772f478838a11ebfaa83c5470b99e6e0f6
+15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whipro_r16-250127-B-12973597      9b341179c5c2b10ffd68338292dcd902aced6dbc4e9dd0c9ebaf2dd19c51c784      f6c59d03fa6d23fcf470615276cd1d397340ef20
 
 
 Pixel 7 (Pro) product line matrix (panther, cheetah)
@@ -28,7 +29,7 @@ Android      Build Number            Release Date      CFG Version              
 13.0.0       TQ3A.230805.001         Aug 2023          cfgdb-whipro-230427-B-10022403          495609840c141aea71c7c81c50a222811c5e4101bcd6e2fbaa75a963e7f61fc9      2b856cbb8c4923f0aee0b2891046bf2f6bfaa557
 13.0.0       TQ3A.230901.001         Sep 2023          cfgdb-whipro-230427-B-10022403          495609840c141aea71c7c81c50a222811c5e4101bcd6e2fbaa75a963e7f61fc9      2b856cbb8c4923f0aee0b2891046bf2f6bfaa557
 14.0.0       UP1A.231005.007         Oct 2023          cfgdb-whipro_r16-230818-B-10680050      9a6bf03b4bcd74016131908989d30f7ef397f8ea7acf4f7e01bd46d9883013d8      7f549b772f478838a11ebfaa83c5470b99e6e0f6
-
+15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whipro_r16-250127-B-12973597      9b341179c5c2b10ffd68338292dcd902aced6dbc4e9dd0c9ebaf2dd19c51c784      f6c59d03fa6d23fcf470615276cd1d397340ef20
 
 Pixel 6a product line matrix (bluejay)
 Android      Build Number            Release Date      CFG Version                             CFG SHA-256 Hash                                                      it_iliad_2124_hash

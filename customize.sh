@@ -47,6 +47,9 @@ elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAM
 elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro-221028-B-9229469" ]; then
     cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro-221028-B-9229469/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
 
+elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-250127-B-12973597" ]; then
+    cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro_r16-250127-B-12973597/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
+
     # Pixel 6/6P/6a product line (oriole, raven, bluejay)
 elif [ "$CODENAME" == "raven" ] || [ "$CODENAME" == "oriole" ] || [ "$CODENAME" == "bluejay" ] && [ "$CFGVER" == "cfgdb-whi-230818-B-10678034" ]; then
     cp -rf "$MODPATH/cfgs/pixel_6/cfgdb-whi-230818-B-10678034/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
