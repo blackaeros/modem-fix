@@ -30,6 +30,9 @@ ui_print "- Note, that this module is only for SoC Google Tensor devices!"
 # CA table from "it_iliad (2124)" config can be found here: https://cacombos.com/device/GVU6C?combolist=iliad_italy
 # !!!!!!!!!! CA combinations currently not implemented !!!!!!!!!!
 
+    # Pixel 8/8P/8a product line (akita, husky, shiba)
+if [ "$CODENAME" == "akita" ] || [ "$CODENAME" == "husky" ] || [ "$CODENAME" == "shiba" ] && [ "$CFGVER" == "cfgdb-whiprozb-250127-B-12973597" ]; then
+    cp -rf "$MODPATH/cfgs/pixel_8/cfgdb-whiprozb-250127-B-12973597/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
 
     # Pixel 7/7P/7a product line (panther, cheetah, lynx)
 if [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-230818-B-10680050" ]; then

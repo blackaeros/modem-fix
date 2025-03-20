@@ -1,3 +1,6 @@
+1.13
+• Add support for Android 15 pixel 8/8Pro/8a Mar 2025 update
+
 1.12
 • Add support for Android 15 pixel 7 Mar 2025 update
 
