@@ -34,6 +34,9 @@ ui_print "- Note, that this module is only for SoC Google Tensor devices!"
 if [ "$CODENAME" == "akita" ] || [ "$CODENAME" == "husky" ] || [ "$CODENAME" == "shiba" ] && [ "$CFGVER" == "cfgdb-whiprozb-250127-B-12973597" ]; then
     cp -rf "$MODPATH/cfgs/pixel_8/cfgdb-whiprozb-250127-B-12973597/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
 
+elif [ "$CODENAME" == "akita" ] || [ "$CODENAME" == "husky" ] || [ "$CODENAME" == "shiba" ] && [ "$CFGVER" == "cfgdb-whiprozb-250508-B-13464350" ]; then
+    cp -rf "$MODPATH/cfgs/pixel_8/cfgdb-whiprozb-250508-B-13464350/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
+
     # Pixel 7/7P/7a product line (panther, cheetah, lynx)
 elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-230818-B-10680050" ]; then
     cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro_r16-230818-B-10680050/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
@@ -52,6 +55,9 @@ elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAM
 
 elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-250127-B-12973597" ]; then
     cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro_r16-250127-B-12973597/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
+
+elif [ "$CODENAME" == "panther" ] || [ "$CODENAME" == "cheetah" ] || [ "$CODENAME" == "lynx" ] && [ "$CFGVER" == "cfgdb-whipro_r16-250508-B-13464350" ]; then
+    cp -rf "$MODPATH/cfgs/pixel_7/cfgdb-whipro_r16-250508-B-13464350/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
 
     # Pixel 6/6P/6a product line (oriole, raven, bluejay)
 elif [ "$CODENAME" == "raven" ] || [ "$CODENAME" == "oriole" ] || [ "$CODENAME" == "bluejay" ] && [ "$CFGVER" == "cfgdb-whi-230818-B-10678034" ]; then
@@ -80,6 +86,9 @@ elif [ "$CODENAME" == "raven" ] || [ "$CODENAME" == "oriole" ] || [ "$CODENAME" 
 
 elif [ "$CODENAME" == "raven" ] || [ "$CODENAME" == "oriole" ] || [ "$CODENAME" == "bluejay" ] && [ "$CFGVER" == "cfgdb-whi-250103-B-12866815" ]; then
     cp -rf "$MODPATH/cfgs/pixel_6/cfgdb-whi-250103-B-12866815/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
+
+elif [ "$CODENAME" == "raven" ] || [ "$CODENAME" == "oriole" ] || [ "$CODENAME" == "bluejay" ] && [ "$CFGVER" == "cfgdb-whi-250328-B-13284995" ]; then
+    cp -rf "$MODPATH/cfgs/pixel_6/cfgdb-whi-250328-B-13284995/cfg.db" "$MODPATH/system/vendor/firmware/carrierconfig/"
 
 else
     abort "- Your device, config file or ROM build unsupported yet!"

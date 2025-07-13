@@ -2,11 +2,13 @@ Pixel 8a product line matrix (akita)
 Android      Build Number            Release Date      CFG Version                             CFG SHA-256 Hash                                                      it_iliad_2124_hash
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whiprozb-250127-B-12973597        72f4abe57aa528b21ca0d20d515b87fa2c9f1b13f48401380404373f6ed45849      15d4215cb55cf69d337bb09ed21674edcfa079a4
+16.0.0       BP2A.250705.008         Jul 2025          cfgdb-whiprozb-250508-B-13464350        644f6f12b30fcc9f2e9cd22f70aec7b6ab1fa137614edde8ffeea6cbfff6d821      f332202143f492e213c5e5b21d6356aebdff815b
 
 Pixel 8 (Pro) product line matrix (husky, shiba)
 Android      Build Number            Release Date      CFG Version                             CFG SHA-256 Hash                                                      it_iliad_2124_hash
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whiprozb-250127-B-12973597        72f4abe57aa528b21ca0d20d515b87fa2c9f1b13f48401380404373f6ed45849      15d4215cb55cf69d337bb09ed21674edcfa079a4
+16.0.0       BP2A.250705.008         Jul 2025          cfgdb-whiprozb-250508-B-13464350        644f6f12b30fcc9f2e9cd22f70aec7b6ab1fa137614edde8ffeea6cbfff6d821      f332202143f492e213c5e5b21d6356aebdff815b
 
 Pixel 7a product line matrix (lynx)
 Android      Build Number            Release Date      CFG Version                             CFG SHA-256 Hash                                                      it_iliad_2124_hash
@@ -18,6 +20,7 @@ Android      Build Number            Release Date      CFG Version              
 13.0.0       TQ3A.230901.001         Sep 2023          cfgdb-whipro-230427-B-10022403          495609840c141aea71c7c81c50a222811c5e4101bcd6e2fbaa75a963e7f61fc9      2b856cbb8c4923f0aee0b2891046bf2f6bfaa557
 14.0.0       UP1A.231005.007         Oct 2023          cfgdb-whipro_r16-230818-B-10680050      9a6bf03b4bcd74016131908989d30f7ef397f8ea7acf4f7e01bd46d9883013d8      7f549b772f478838a11ebfaa83c5470b99e6e0f6
 15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whipro_r16-250127-B-12973597      9b341179c5c2b10ffd68338292dcd902aced6dbc4e9dd0c9ebaf2dd19c51c784      f6c59d03fa6d23fcf470615276cd1d397340ef20
+16.0.0       BP2A.250705.008         Jul 2025          cfgdb-whipro_r16-250508-B-13464350      26226837949d248c4988e70bf21491a9c43837eb4dcb108b91f794a9d01cfc0c      58530135f4b038773a46e5e4cbe4884a40694247
 
 
 Pixel 7 (Pro) product line matrix (panther, cheetah)
@@ -40,6 +43,7 @@ Android      Build Number            Release Date      CFG Version              
 13.0.0       TQ3A.230901.001         Sep 2023          cfgdb-whipro-230427-B-10022403          495609840c141aea71c7c81c50a222811c5e4101bcd6e2fbaa75a963e7f61fc9      2b856cbb8c4923f0aee0b2891046bf2f6bfaa557
 14.0.0       UP1A.231005.007         Oct 2023          cfgdb-whipro_r16-230818-B-10680050      9a6bf03b4bcd74016131908989d30f7ef397f8ea7acf4f7e01bd46d9883013d8      7f549b772f478838a11ebfaa83c5470b99e6e0f6
 15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whipro_r16-250127-B-12973597      9b341179c5c2b10ffd68338292dcd902aced6dbc4e9dd0c9ebaf2dd19c51c784      f6c59d03fa6d23fcf470615276cd1d397340ef20
+16.0.0       BP2A.250705.008         Jul 2025          cfgdb-whipro_r16-250508-B-13464350      26226837949d248c4988e70bf21491a9c43837eb4dcb108b91f794a9d01cfc0c      58530135f4b038773a46e5e4cbe4884a40694247
 
 Pixel 6a product line matrix (bluejay)
 Android      Build Number            Release Date      CFG Version                             CFG SHA-256 Hash                                                      it_iliad_2124_hash
@@ -63,6 +67,7 @@ Android      Build Number            Release Date      CFG Version              
 14.0.0       UP1A.231005.007         Oct 2023          cfgdb-whi-230818-B-10678034             64bc6888cc9b160051b92cf4ae66ca4c0f5b2ed0588d31ca9b63012560364e99      128b4281b0f06f16921dc1e37dc1e76c9a9c6c49
 15.0.0       AP4A.250205.002         Feb 2025          cfgdb-whi-241107-B-12620021             0b08b21b1b1e9a6aa7691bc6249b9e0ab78f91dfb8cea313b12f1f979199cdf0      478f3632d42196c2438b5eeba797d88cef4e8ec5
 15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whi-250103-B-12866815             963216938d639619f8395b3026c0a2dd248682ed81e0991cd6337cc2521c1ba7      478f3632d42196c2438b5eeba797d88cef4e8ec5
+16.0.0       BP2A.250605.031.A2      Jul 2025          cfgdb-whi-250328-B-13284995             af214216f8d5bc8cf2600bd1bfcf8c569e219165fbeb334454aa1529b9c33cf1      478f3632d42196c2438b5eeba797d88cef4e8ec5
 
 Pixel 6 (Pro) product line matrix (oriole, raven)
 Android      Build Number            Release Date      CFG Version                             CFG SHA-256 Hash                                                      it_iliad_2124_hash
@@ -94,3 +99,5 @@ Android      Build Number            Release Date      CFG Version              
 13.0.0       TQ3A.230805.001         Aug 2023          cfgdb-whi-230428-B-10034304             abd9876f2c0d27bab0478cf9f79a055b380d52a7f0fa82c348e59a919b4925e5      a282d508fe77e0f64a2374e569baed9b1e0f5fea
 13.0.0       TQ3A.230901.001         Sep 2023          cfgdb-whi-230428-B-10034304             abd9876f2c0d27bab0478cf9f79a055b380d52a7f0fa82c348e59a919b4925e5      a282d508fe77e0f64a2374e569baed9b1e0f5fea
 14.0.0       UP1A.231005.007         Oct 2023          cfgdb-whi-230818-B-10678034             64bc6888cc9b160051b92cf4ae66ca4c0f5b2ed0588d31ca9b63012560364e99      128b4281b0f06f16921dc1e37dc1e76c9a9c6c49
+15.0.0       BP1A.250305.019         Mar 2025          cfgdb-whi-250103-B-12866815             963216938d639619f8395b3026c0a2dd248682ed81e0991cd6337cc2521c1ba7      478f3632d42196c2438b5eeba797d88cef4e8ec5
+16.0.0       BP2A.250605.031.A2      Jul 2025          cfgdb-whi-250328-B-13284995             af214216f8d5bc8cf2600bd1bfcf8c569e219165fbeb334454aa1529b9c33cf1      478f3632d42196c2438b5eeba797d88cef4e8ec5

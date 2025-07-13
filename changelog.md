@@ -1,3 +1,8 @@
+1.15
+• Add support for Android 16 pixel 6/6pro/6a Jul 2025 update
+• Add support for Android 16 pixel 7/7pro/7a Jul 2025 update
+• Add support for Android 16 pixel 8/8pro/8a Jul 2025 update
+
 1.14
 • Fix mistake in the previous update
 
